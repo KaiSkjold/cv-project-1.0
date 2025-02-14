@@ -1,9 +1,9 @@
 export default function CoverLetterContent() {
     return (
         <div>
-            <div className="flex flex-col m-2 p-2">
+            <div>
                 <label>Your motivated application</label>
-                <textarea className="border p-2" />
+                <textarea  />
             </div>
         </div>
     );

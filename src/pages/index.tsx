@@ -1,9 +1,9 @@
-import CoverLetterPage from '../app/CoverLetter/CoverLetterPage';
+import MainPage from '@/app/MainPage';
 
 export default function Home() {
   return (
     <div>
-      <CoverLetterPage />
+        <MainPage/>
     </div>
   );
 }

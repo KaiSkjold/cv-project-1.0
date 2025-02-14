@@ -1,5 +1,5 @@
-import CoverLetterContent from "../CoverLetterContent";
-import CoverLetterRecipient from "../CoverLetterRecipient";
+import CoverLetterContent from "./CoverLetterContent";
+import CoverLetterRecipient from "./CoverLetterRecipient";
 
 export default function CoverLetterMain() {
 
